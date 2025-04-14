@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Multiplayer Game",
+    "imageSrc": "projects/tictac.png",
+    "description": "Built a real-time multiplayer Tic-Tac-Toe game . Implemented live communication between players, real-time game updates, and room-based multiplayer support. Focused on smooth UX, responsive design, and clean game logic for detecting wins, draws, and turn-based interactions.",
+    "skills": ["React", "Express", "Websocket"],
+    "demo": "https://tic-tac-navy.vercel.app/",
+    "source": "https://github.com/roshant2972/tic_tac"
+  },
+  {
+    "title": "Job Portal",
+    "imageSrc": "projects/jobportal.jpeg",
+    "description": "A full-stack job portal website that allows recruiters to post job openings and job seekers to browse and apply for jobs. The platform features separate dashboards for each user type, application tracking, and seamless integration with MongoDB for data storage. ",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "",
+    "source": "https://github.com/roshant2972?tab=repositories"
+  },
+  {
+    "title": "Chatting (In Progress)",
+    "imageSrc": "projects/chat.png",
+    "description": "Built a real-time chat application . Enabled users to exchange messages instantly with features like user authentication, dynamic room creation, and message broadcasting. This project strengthened my understanding of full-duplex communication and real-time data flow in  web apps.",
+    "skills": ["React","Websocket", "Express", "MongoDB"],
+    "demo": "",
+    "source": "https://github.com/roshant2972?tab=repositories"
+  }
+]

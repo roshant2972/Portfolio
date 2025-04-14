@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "TRAILSHOPY PVT LIMITED",
+    "startDate": "Sept, 2023",
+    "endDate": "Dec,2023",
+    "experiences": ["Worked as frontend engineer and make the responsive website for this startup."],
+    "imageSrc": "history/trailshopy.jpeg"
+  },
+  {
+    "role": "Industrial Trainee",
+    "organisation": "SAIL",
+    "startDate": "Jun, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Gained hands-on exposure to communication systems, SCADA, and industrial automation. Understood real-time signal transmission and how ECE concepts apply in industry."],
+    "imageSrc": "history/sail2.png"
+  }
+
+]
