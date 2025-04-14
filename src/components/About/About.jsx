@@ -18,10 +18,9 @@ export const About = () => {
         <li className={styles.aboutItem}>
             <img src={getImageUrl("about/college.png")} alt="College" />
             <div className={styles.aboutItemText}>
-              <h3>Btech Student</h3><br />
-              <h3>National Intitute Of Technology , Patna (2021-2025)</h3>
+              <h3>Btech Student</h3>
               <p>
-                
+              National Intitute Of Technology , Patna (2021-2025)
               </p>
             </div>
           </li>
